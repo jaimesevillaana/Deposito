@@ -1,13 +1,27 @@
 package cuentas;
 
+// TODO: Auto-generated Javadoc
+/**
+ * The Class Main.
+ */
 public class Main {
 
+	/**
+	 * The main method.
+	 *
+	 * @param args the arguments
+	 */
 	public static void main(String[] args) {
 		
 		operativa_cuenta(2500);
 
 	}
 
+	/**
+	 * Operativa cuenta.
+	 *
+	 * @param cantidad the cantidad
+	 */
 	public static void operativa_cuenta(float cantidad) {
 		CCuenta cuenta1;
         double saldoActual;

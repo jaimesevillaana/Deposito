@@ -1,5 +1,11 @@
 package cuentas;
 
+
+/**
+ * Clase para gestionar una cuenta bancaria
+ * @autor Ana Jaime Sevilla
+ */
+
 public class CCuenta {
 	private String nombre;
     private String cuenta;
